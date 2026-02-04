@@ -324,9 +324,6 @@ cd apps/web && pnpm build
 - Mobile applications
 - Third-party integrations (Slack, Google Calendar)
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
