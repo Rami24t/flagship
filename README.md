@@ -335,20 +335,15 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Vite](https://vitejs.dev/) for the incredible dev experience
 - [PNPM](https://pnpm.io/) for efficient monorepo management
 
-## 📞 Support
-
-For support, email [your-email@example.com] or open an issue in the GitHub repository.
-
 ---
 
-**Built with ❤️ by [Your Name]**  
 *Real collaboration, simplified.*
 
 ---
 
 <div align="center">
-  <img src="https://img.shields.io/github/stars/yourusername/collablite?style=social" alt="GitHub Stars">
-  <img src="https://img.shields.io/github/forks/yourusername/collablite?style=social" alt="GitHub Forks">
-  <img src="https://img.shields.io/github/issues/yourusername/collablite" alt="GitHub Issues">
-  <img src="https://img.shields.io/github/license/yourusername/collablite" alt="License">
+  <img src="https://img.shields.io/github/stars/Rami24t/collablite?style=social" alt="GitHub Stars">
+  <img src="https://img.shields.io/github/forks/Rami24t/collablite?style=social" alt="GitHub Forks">
+  <img src="https://img.shields.io/github/issues/Rami24t/collablite" alt="GitHub Issues">
+  <img src="https://img.shields.io/github/license/Rami24t/collablite" alt="License">
 </div>
